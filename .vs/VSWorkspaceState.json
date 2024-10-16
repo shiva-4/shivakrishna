@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
     "\\assets",
-    "\\assets\\vendor\\typed.js"
+    "\\assets\\resume"
   ],
-  "SelectedNode": "\\assets\\resume",
   "PreviewInSolutionExplorer": false
 }
